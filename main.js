@@ -2500,7 +2500,7 @@ Game.Launch=function()
 			});
 			
 			Game.attachTooltip(l('topbarOrteil'),'<div style="padding:8px;width:250px;text-align:center;">Back to Jameson\'s subdomain!<br>Lots of other games in there!</div>'+tinyIcon([17,5],'display:block;margin:-12px auto;'),'this');
-			Game.attachTooltip(l('topbarDashnet'),'<div style="padding:8px;width:250px;text-align:center;">Jameson\'s official PornHub account!</div>','this');
+			Game.attachTooltip(l('topbarDashnet'),'<div style="padding:8px;width:250px;text-align:center;">Sus</div>','this');
 			Game.attachTooltip(l('topbarTwitter'),'<div style="padding:8px;width:250px;text-align:center;">Orteil\'s twitter, because Jameson doesnt have one!</div>','this');
 			Game.attachTooltip(l('topbarTumblr'),'<div style="padding:8px;width:250px;text-align:center;">Orteil\'s tumblr, because Jameson doesnt have one!</div>','this');
 			Game.attachTooltip(l('topbarDiscord'),'<div style="padding:8px;width:250px;text-align:center;">Jameson\'s official discord server.<br>Its unrelated to his games, but its a cool roman militar simulation</div>','this');
